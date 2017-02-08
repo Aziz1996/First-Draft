@@ -1,0 +1,38 @@
+body{
+	width: 600px;
+	position: center;
+	background-color: grey;
+}
+
+ol{
+	color: white;
+}
+ul{
+	color:white;
+}
+h3{
+	color: #2DE1DD;
+}
+
+h1{
+  color: #2DE1DD;
+}
+
+p>span{
+  color:yellow;
+}
+
+span{
+	color:red;
+}
+
+
+
+p{
+  color: white;
+}
+   hr {
+    border: none; /* Убираем границу */
+    background-color: white; /* Цвет линии */
+    height: 2px; /* Толщина линии */
+   }
